@@ -2,3 +2,6 @@
 WELCOME TO ANOTHER YEAR DAVID , YOU HAVE DONE IT BEFORE LAST YEAR AND YOU WILL DO IT AGAIN THIS YEAR BUT 1000 TIME BETTER.
 I WILL CREATE OPPURTINITIES THIS YEAR AND NOT WAIT FOR IT TO COME.
 STRAP UP , ITS ABOUT TO BE ANOTHER CRAZY RIDE , LETSSS GOOOOOO.
+
+JAN 01
+I have projects i hasnt finished yet from last year (Chatapp , dropbox) , i will round those off and then do my portfolio and we go from there.
