@@ -8,3 +8,4 @@ I have projects i have not finished yet from last year (Chatapp , dropbox) , i w
 
 JAN 02
 New day same grind.
+Chat app is done for now, till i feel like making more changes with time.
