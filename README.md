@@ -4,4 +4,4 @@ I WILL CREATE OPPURTINITIES THIS YEAR AND NOT WAIT FOR IT TO COME.
 STRAP UP , ITS ABOUT TO BE ANOTHER CRAZY RIDE , LETSSS GOOOOOO.
 
 JAN 01
-I have projects i hasnt finished yet from last year (Chatapp , dropbox) , i will round those off and then do my portfolio and we go from there.
+I have projects i have not finished yet from last year (Chatapp , dropbox) , i will round those off and then do my portfolio and we go from there.
