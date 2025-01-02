@@ -7,3 +7,4 @@ JAN 01
 I have projects i have not finished yet from last year (Chatapp , dropbox) , i will round those off and then do my portfolio and we go from there.
 
 JAN 02
+New day same grind.
