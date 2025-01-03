@@ -12,3 +12,4 @@ Chat app is done for now, till i feel like making more changes with time.
 Portfolio design update done for now , till i feel like making more changes. 
 
 JAN 03
+New day same grind!
