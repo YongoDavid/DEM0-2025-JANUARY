@@ -16,3 +16,5 @@ New day same grind!
 i am working on Drop-box now , i will me using firebase for the authentication and supabase for the storage.
 
 JAN 04
+New day , same grind.
+There is much progress now with the 
