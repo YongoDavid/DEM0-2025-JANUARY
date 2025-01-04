@@ -14,3 +14,5 @@ Portfolio design update done for now , till i feel like making more changes.
 JAN 03
 New day same grind!
 i am working on Drop-box now , i will me using firebase for the authentication and supabase for the storage.
+
+JAN 04
