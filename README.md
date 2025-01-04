@@ -17,4 +17,4 @@ i am working on Drop-box now , i will me using firebase for the authentication a
 
 JAN 04
 New day , same grind.
-There is much progress now with the 
+There is much progress now with the Drop-box project.
