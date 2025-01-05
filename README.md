@@ -21,3 +21,4 @@ There is much progress now with the Drop-box project.
 i have set up supabase storage annd file setup.
 
 JAN 05
+Sunday chill day but i am putting in light work.
