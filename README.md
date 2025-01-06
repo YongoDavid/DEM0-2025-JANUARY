@@ -22,3 +22,5 @@ i have set up supabase storage annd file setup.
 
 JAN 05
 Sunday chill day but i am putting in light work.
+
+JAN 06
