@@ -26,3 +26,5 @@ Sunday chill day but i am putting in light work.
 JAN 06
 New day , new week , same gind!!
 I will continue were i left off with supabase and Drop-box
+
+JAN 07
