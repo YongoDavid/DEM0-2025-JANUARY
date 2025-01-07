@@ -28,3 +28,4 @@ New day , new week , same gind!!
 I will continue were i left off with supabase and Drop-box
 
 JAN 07
+New day ,same grind!!
