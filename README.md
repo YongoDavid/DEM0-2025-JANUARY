@@ -29,3 +29,4 @@ I will continue were i left off with supabase and Drop-box
 
 JAN 07
 New day ,same grind!!
+So far with the drop-box project there has been alot of issues especially becase i am using Both Firebase and supabase.
