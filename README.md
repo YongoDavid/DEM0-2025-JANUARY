@@ -33,3 +33,4 @@ So far with the drop-box project there has been alot of issues especially becase
 if i cant get this issue fixed by the end of tomorrow i will be moving over fully to supabase, so lets see how it goes!!
 
 JAN 08
+New day sae grind!
