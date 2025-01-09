@@ -36,3 +36,6 @@ JAN 08
 New day sae grind!
 Time for another night dose and i will continue from where i stopped with the drop-box application.
 i have fully switched to using supabase , sooo kets see how it goes.
+
+JAN 09
+
