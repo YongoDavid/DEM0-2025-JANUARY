@@ -40,3 +40,6 @@ i have fully switched to using supabase , sooo kets see how it goes.
 JAN 09
 New day same grind!!
 file uploading working well on drop-box , it remains folder creation and then updating the applications UI/UX
+
+JAN 10
+
