@@ -58,4 +58,4 @@ JAN 13
 New day , new week, lets put in that work!!.
 
 JAN 14
-
+New day same grind!.
