@@ -65,4 +65,4 @@ JAN 15
 New day same grind!, another morning doze.
 
 JAN 16
-
+Working on somw SQL project for bitcom dev center.
