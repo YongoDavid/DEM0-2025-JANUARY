@@ -66,3 +66,4 @@ New day same grind!, another morning doze.
 
 JAN 16
 Working on somw SQL project for bitcom dev center.
+i will be taking a pause on Drop-box for now and resume when i am done with Bitcom.
