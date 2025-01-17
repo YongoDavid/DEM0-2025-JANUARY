@@ -69,3 +69,4 @@ Working on somw SQL project for bitcom dev center.
 i will be taking a pause on Drop-box for now and resume when i am done with Bitcom.
 
 JAN 17
+New dayy, same grind!
