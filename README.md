@@ -70,3 +70,6 @@ i will be taking a pause on Drop-box for now and resume when i am done with Bitc
 
 JAN 17
 New dayy, same grind!
+
+JAN 18
+
