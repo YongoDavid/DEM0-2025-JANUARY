@@ -76,3 +76,5 @@ DROPBOX project update.
 
 JAN 19
 Sunday , chill day but lets put in some light work.
+
+JAN 20
