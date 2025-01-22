@@ -85,3 +85,5 @@ Betcom dev droject has been terminated.
 JAN 21
 New day, game day , same grind!!!
 Working on responsive design for Dropbox project 
+
+JAN 22
