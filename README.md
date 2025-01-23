@@ -88,3 +88,6 @@ Working on responsive design for Dropbox project
 
 JAN 22
 New day, same grind!
+
+JAN 23
+
