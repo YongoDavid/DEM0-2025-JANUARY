@@ -105,4 +105,4 @@ JAN 26
 Sunday chill day , but i have to work on the pending projects i have left.
 
 JAN 27
-
+New week, and we repeat the same thing again!!
