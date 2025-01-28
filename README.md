@@ -107,3 +107,6 @@ Sunday chill day , but i have to work on the pending projects i have left.
 JAN 27
 New week, and we repeat the same thing again!!
 i have alot of issues on the Dropbox project ,so i will try again this week hopfully i finish it all up
+
+JAN 28
+
