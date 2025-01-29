@@ -90,7 +90,7 @@ JAN 22
 New day, same grind!
 
 JAN 23
-New say, same grind!!
+New Day, same grind!!
 New UI updates on the dropbox project.
 
 JAN 24
@@ -114,4 +114,4 @@ File and Folder upload now working perfectly.
 Ongoing UO update.
 
 JAN 29
-
+Massive progress on Dropbox, i should be rounding up this week
