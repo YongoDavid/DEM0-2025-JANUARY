@@ -118,4 +118,4 @@ Massive progress on Dropbox, i should be rounding up this week.
 
 JAN 30
 New day,same grind!
-i will be working on some updates
+i will be working on some updates for AYPL/MOA website.
